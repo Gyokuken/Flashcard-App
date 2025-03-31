@@ -1,2 +1,2 @@
 # Flashcard-App
-uesd custom tkinter, made in first year
+used custom tkinter, made in first year
